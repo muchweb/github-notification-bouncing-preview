@@ -1,5 +1,7 @@
 # Preview conversion routine
 
+This will generate GIF preview for [github-notification-bouncing](https://github.com/muchweb/github-notification-bouncing-preview).
+
 Creen video was recorded by [screencast.sh](https://github.com/muchweb/screencast.sh).
 
 Script will crop the video, convert it to GIF and merge two gifs side by side (used in [userstyles.org](userstyles.org)).
