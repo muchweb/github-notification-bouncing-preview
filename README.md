@@ -1,6 +1,6 @@
 # Preview conversion routine
 
-This will generate GIF preview for [github-notification-bouncing](https://github.com/muchweb/github-notification-bouncing-preview).
+This will generate GIF preview for [github-notification-bouncing](https://github.com/muchweb/github-notification-bouncing).
 
 Creen video was recorded by [screencast.sh](https://github.com/muchweb/screencast.sh).
 
