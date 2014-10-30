@@ -2,14 +2,14 @@
 
 This will generate GIF preview for [github-notification-bouncing](https://github.com/muchweb/github-notification-bouncing).
 
-Creen video was recorded by [screencast.sh](https://github.com/muchweb/screencast.sh).
+Screen video was recorded by [screencast.sh](https://github.com/muchweb/screencast.sh).
 
 Script will crop the video, convert it to GIF and merge two gifs side by side (used in [userstyles.org](userstyles.org)).
 
 ## Requirements
 
- - ImageMagick's `convert`
- - `ffmpeg`
+ - ImageMagick
+ - FFmpeg
  - GNU Make
 
 ## Usage
